@@ -53,10 +53,6 @@ export default {
     border-radius: 10px;
     cursor: pointer;
   }
-
-  .item:hover > img {
-    opacity: 70%;
-  }
   .details {
     position: absolute;
     top: 40%;
