@@ -51,12 +51,11 @@ export default {
   img {
     width: 100%;
     border-radius: 10px;
-    opacity: 0.80;
     cursor: pointer;
   }
 
   .item:hover > img {
-    opacity: 1;
+    opacity: 70%;
   }
   .details {
     position: absolute;
