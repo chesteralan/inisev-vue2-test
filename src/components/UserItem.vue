@@ -51,7 +51,7 @@ export default {
   img {
     width: 100%;
     border-radius: 10px;
-    opacity: 80%;
+    opacity: 0.80;
     cursor: pointer;
   }
 
